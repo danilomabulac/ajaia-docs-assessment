@@ -12,6 +12,7 @@
 
 ## Review Links
 
+- Source repository: https://github.com/danilomabulac/ajaia-docs-assessment
 - Live product: **Add Vercel URL before submission**
 - Walkthrough video: **Add public video URL before submission**
 

@@ -2,6 +2,8 @@
 
 Ajaia Docs is a lightweight collaborative document editor built for the Ajaia AI-Native Full Stack Developer assessment. It provides a focused end-to-end workflow for creating, formatting, importing, persisting, and sharing documents.
 
+Source repository: https://github.com/danilomabulac/ajaia-docs-assessment
+
 ## Reviewer Quick Start
 
 1. Open the deployed application: **Add Vercel URL before submission**

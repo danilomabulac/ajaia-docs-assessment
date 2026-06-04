@@ -23,6 +23,7 @@ This checklist is the source of truth for the remaining assessment delivery work
 - Optimized document opening and clearer database connectivity errors
 - Imported Markdown document read endpoint verified against hosted Supabase with HTTP 200
 - Added an explicit document-title label and rename hint in the editor
+- Renamed and verified the GitHub repository as `danilomabulac/ajaia-docs-assessment`
 
 ## Pending Before Submission
 
