@@ -4,6 +4,19 @@ Ajaia Docs is a lightweight collaborative document editor built for the Ajaia AI
 
 Source repository: https://github.com/danilomabulac/ajaia-docs-assessment
 
+## Tech Stack
+
+| Area | Technology | Purpose |
+| --- | --- | --- |
+| Full-stack framework | Next.js App Router | User interface, server-rendered routes, and API route handlers |
+| Language | TypeScript | Type-safe frontend and backend implementation |
+| Rich-text editor | TipTap | Browser-based document editing and formatting |
+| Database | Supabase Postgres | Persistent documents, users, and sharing records |
+| Validation and security | Zod and sanitize-html | API request validation and stored HTML sanitization |
+| Styling and icons | Tailwind CSS and Lucide React | Responsive interface and consistent icons |
+| Testing | Vitest | Access-control and file-import tests |
+| Deployment | Vercel | Public application hosting |
+
 ## Reviewer Quick Start
 
 1. Open the deployed application: https://ajaia-docs-assessment.vercel.app/

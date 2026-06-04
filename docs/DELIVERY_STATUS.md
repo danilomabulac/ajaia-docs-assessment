@@ -35,6 +35,7 @@ This checklist is the source of truth for the remaining assessment delivery work
 - Complete workflow verified against the live deployment
 - Public deployment and production users API verified with HTTP 200
 - Public Loom walkthrough video recorded and linked
+- Added a quick tech-stack overview to the README
 
 ## Pending Before Submission
 

@@ -12,6 +12,7 @@
 
 ## Review Links
 
+- Google Drive link: https://drive.google.com/drive/folders/1OifPFL04NYFbxsVRt84_XoIDHgiDCtXJ?usp=sharing
 - Source repository: https://github.com/danilomabulac/ajaia-docs-assessment
 - Live product: https://ajaia-docs-assessment.vercel.app/
 - Walkthrough video: https://www.loom.com/share/19bf7e1232e64c2296363cc7686e171d
