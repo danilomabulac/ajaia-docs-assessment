@@ -22,6 +22,6 @@ I used OpenAI Codex as a product-planning, implementation, debugging, and docume
 
 I verified the work through focused access-control and file-validation tests, TypeScript checks, linting, a production build, direct schema execution, and a Supabase REST check that confirmed all three seeded users are accessible.
 
-The full manual browser walkthrough remains pending because the automated visual browser connection was unavailable during implementation. It is explicitly tracked as a required pre-submission step rather than reported as completed.
+The full manual acceptance walkthrough was completed against the deployed application and recorded in the public Loom walkthrough. During implementation, direct automated browser verification was unavailable, so live HTTP and API checks were also used as supporting evidence.
 
 AI accelerated implementation, but product scope, technical decisions, and correctness remained my responsibility.

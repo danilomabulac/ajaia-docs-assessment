@@ -13,8 +13,8 @@
 ## Review Links
 
 - Source repository: https://github.com/danilomabulac/ajaia-docs-assessment
-- Live product: **Add Vercel URL before submission**
-- Walkthrough video: **Add public video URL before submission**
+- Live product: https://ajaia-docs-assessment.vercel.app/
+- Walkthrough video: https://www.loom.com/share/19bf7e1232e64c2296363cc7686e171d
 
 ## Demo Users
 
@@ -41,12 +41,15 @@ Use the in-product **Viewing as** selector:
 - `npm run build`
 - Hosted database schema applied
 - Supabase REST API returned the three seeded users
+- Public Vercel deployment returned HTTP 200
+- Production users API returned all three seeded users
+- Full manual acceptance walkthrough completed
+- Complete workflow verified against the live deployment
+- Public Loom walkthrough video recorded and linked
 
 ## Required Before Submission
 
-- Complete the manual browser acceptance walkthrough
-- Deploy the application to Vercel and add the live URL
-- Record and add the public walkthrough video URL
+- No required deliverables remain. Screenshots or a short demo GIF may still be added as optional presentation material.
 
 ## Intentionally Deprioritized
 

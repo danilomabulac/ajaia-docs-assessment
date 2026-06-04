@@ -24,22 +24,22 @@ This checklist is the source of truth for the remaining assessment delivery work
 - Imported Markdown document read endpoint verified against hosted Supabase with HTTP 200
 - Added an explicit document-title label and rename hint in the editor
 - Renamed and verified the GitHub repository as `danilomabulac/ajaia-docs-assessment`
+- Full manual acceptance walkthrough completed:
+  - Created and formatted a document
+  - Refreshed and confirmed persistence
+  - Imported one `.txt` and one `.md` file
+  - Shared a document and verified it as another user
+  - Confirmed an unrelated user is denied direct access
+  - Confirmed delete and revoke behavior
+- Application deployed to https://ajaia-docs-assessment.vercel.app/
+- Complete workflow verified against the live deployment
+- Public deployment and production users API verified with HTTP 200
+- Public Loom walkthrough video recorded and linked
 
 ## Pending Before Submission
 
-- Run the full manual acceptance walkthrough:
-  - Create and format a document
-  - Refresh and confirm persistence
-  - Import one `.txt` and one `.md` file
-  - Share a document and verify it as another user
-  - Confirm an unrelated user is denied direct access
-  - Confirm delete and revoke behavior
-- Deploy the application to Vercel
-- Verify the complete workflow against the live deployment
-- Add the live URL to `README.md` and `SUBMISSION.md`
-- Record the 3-5 minute walkthrough video
-- Add the video URL to `SUBMISSION.md` and `walkthrough-video-url.txt`
-- Capture screenshots or a short demo GIF
+- No required deliverables remain.
+- Optional: capture screenshots or a short demo GIF.
 
 ## Documentation Flow
 

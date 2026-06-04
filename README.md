@@ -6,7 +6,7 @@ Source repository: https://github.com/danilomabulac/ajaia-docs-assessment
 
 ## Reviewer Quick Start
 
-1. Open the deployed application: **Add Vercel URL before submission**
+1. Open the deployed application: https://ajaia-docs-assessment.vercel.app/
 2. Use the **Viewing as** selector to act as Maya, Noah, or Priya.
 3. Create and format a document.
 4. Share it with another demo user.
@@ -59,7 +59,9 @@ Import this directory into Vercel, add `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE
 - Supabase schema applied and verified against the configured hosted project
 - Three seeded demo users verified through the Supabase REST API
 - Lint, typecheck, 7 automated tests, and production build passing
-- Remaining: manual browser acceptance walkthrough, Vercel deployment, and walkthrough video
+- Live deployment and manual acceptance walkthrough completed
+- Walkthrough video: https://www.loom.com/share/19bf7e1232e64c2296363cc7686e171d
+- Remaining optional presentation material: screenshots or a demo GIF
 
 See [docs/DELIVERY_STATUS.md](docs/DELIVERY_STATUS.md) for the maintained verification checklist.
 
